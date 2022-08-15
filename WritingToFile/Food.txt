@@ -1,0 +1,6 @@
+1	Rice	200
+2	Beans	400
+3	Yam & egg	400
+4	Rice & Beans	500
+5	Jollof Spagetti	450
+1	Garri	250
