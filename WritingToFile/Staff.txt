@@ -1,0 +1,5 @@
+0	Bola	Olu	Olo@gmail.com	09012345678	bolaolu ST54678
+2	Musodiq	Aderibgigbe	muse@gmail.com	909123456	muse    ST268975
+2	Muse	ade	email		cetr	0	Cook	ST512B3 
+3	Zafrullah	Idris	id@gmail.com	olobe	09011914380	0	Cleaner	STF40FD 
+2	Mos	Bola	1wtr1	rtyewui	09876543	0	Cook	STB33D9
